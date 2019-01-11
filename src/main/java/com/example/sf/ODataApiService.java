@@ -5,7 +5,7 @@ public interface ODataApiService {
 
   /**
    * exmaple
-   * curl --basic -u apiuser@SFPART033161:123qwe! https://apisalesdemo2.successfactors.eu/odata/v2/User\('1'\)
+   * curl --basic -u [user] [url]
    *
    * @return
    */
